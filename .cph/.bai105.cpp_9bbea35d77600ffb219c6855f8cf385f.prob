@@ -1,0 +1,1 @@
+{"name":"Local: bai105","url":"/Users/ngochung/Desktop/codeptit/data struct/bai105.cpp","tests":[{"id":1758015116844,"input":"2\n10\n5 6 7 8 9 10 1 2 3 4\n5\n1 1 1  1  1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ngochung/Desktop/codeptit/data struct/bai105.cpp","group":"local","local":true}
